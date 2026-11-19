@@ -1,0 +1,3 @@
+cd=used to change current directory
+mkdir=used to create folder
+ls=return all items
