@@ -1,0 +1,41 @@
+sql-
+sql is structrural query laqnguage
+domain specific
+4th gen lan
+declarative language-set of instruction are pre defined
+where as peogramming lan set of ins are not pre defined it is set of instruction
+to perfrom specific task
+
+mysql- tis is a data management system which stores data in database and manages data
+sql-it is langauage whuch used to interact with data
+
+ddl=data defination language whuch works on database and table structure
+it has command create,rename,drop,truncate,alter.
+dml=data manipulatiion lanaguage which works on records datavalues and rows
+ it has commands like insert,update,select,delete.
+
+diff between drop truncate and delete
+drop= str and data fully delete and permanenetly
+truncate=data permanently deleetd but str exist
+delete=data pere delete as well as temporary
+we can delete one record as well as all record
+
+
+utilities are common commands use,show desc
+
+data def oe table def sholuld have
+1.column
+2.datatype
+3.constraints
+
+alter=to change
+1 add column
+2rename column
+3drop column
+
+dml
+#standarad insertion
+1.single record insertioin
+2.multiple recoerd insertion'
+3.extension based insertion
+
